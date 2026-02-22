@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,ciallo.party
 DOMAIN-KEYWORD,emos
 DOMAIN-SUFFIX,okemby.org
-DOMAIN-SUFFIX,tanhuatv.site # 探花 TV 主线路
+DOMAIN-SUFFIX,emby.dnscf.dpdns.org # HG
+DOMAIN-SUFFIX,emby-npo.hohai.eu.org # Hohai
+DOMAIN-SUFFIX,public.shrekmedia.org # Shrek
 
 
 #搬运
