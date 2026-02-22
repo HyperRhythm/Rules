@@ -1,4 +1,5 @@
 #自定义emby服务器地址规则
+#Loon
 
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,cf.sfcj.org
@@ -9,9 +10,9 @@ DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,ciallo.party
 DOMAIN-KEYWORD,emos
 DOMAIN-SUFFIX,okemby.org
-DOMAIN-SUFFIX,emby.dnscf.dpdns.org # HG
-DOMAIN-SUFFIX,emby-npo.hohai.eu.org # Hohai
-DOMAIN-SUFFIX,public.shrekmedia.org # Shrek
+DOMAIN-SUFFIX,emby.dnscf.dpdns.org
+DOMAIN-SUFFIX,emby-npo.hohai.eu.org
+DOMAIN-SUFFIX,public.shrekmedia.org
 
 
 #搬运
