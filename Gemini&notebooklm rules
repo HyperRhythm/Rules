@@ -21,4 +21,4 @@ payload:
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
 
-  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-KEYWORD,notebooklm
