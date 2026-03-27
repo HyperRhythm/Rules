@@ -3,14 +3,12 @@
 # format: yaml
 payload:
 #
-  - DOMAIN-SUFFIX,cn2gias.uk
-  - DOMAIN-SUFFIX,sfcj.org
+  - DOMAIN-SUFFIX,cn2gias.uk #守候
   - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
-  - DOMAIN-SUFFIX,bangumi.ca
-  - DOMAIN-SUFFIX,tanhuatv.site
-  - DOMAIN-SUFFIX,ciallo.party
-  - DOMAIN-KEYWORD,emos
-  - DOMAIN-SUFFIX,okemby.org
+  - DOMAIN-SUFFIX,bangumi.ca #Nya
+  - DOMAIN-SUFFIX,ciallo.party. #105°兔子
+  - DOMAIN-KEYWORD,emos #emos
+  - DOMAIN-SUFFIX,okemby.org #OK
 #
   - DOMAIN-SUFFIX,sfcj.org # 非越
 #
@@ -19,7 +17,8 @@ payload:
   - DOMAIN,pe.cn2gias.uk    # 守候高级服 US 主线路
   - DOMAIN,prehk.cn2gias.uk # 守候高级服 HK 备用线路
   - DOMAIN,prekr.cn2gias.uk # 守候高级服 KR 备用线路
-  - DOMAIN,emby.cn2gias.uk  # 守候机场服 US 主线路
+  - DOMAIN,server2.cn2gias.uk  # 守候机场服 US 主线路
+  - DOMAIN,lite.cn2gias.uk  # 守候公益服
 #
   - DOMAIN-SUFFIX,tanhuatv.site # 探花 TV 主线路
 # 
